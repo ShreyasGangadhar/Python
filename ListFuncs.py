@@ -1,0 +1,13 @@
+L1=[1,5,3,8,45,0,456,4]
+L1.sort()
+print("Sorted=",L1 )
+L1.reverse()
+print("Reverse=",L1)
+L1.append(8)
+print("Appended=", L1)
+L1.insert(0,27)
+print("Inserted=",L1)
+L1.pop(4)
+print("Popped=",L1)
+L1.remove(0)
+print("removed=",L1)
